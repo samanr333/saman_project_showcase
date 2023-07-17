@@ -5,7 +5,9 @@ body{
     font-family: 'Dancing Script', cursive;
     font-family: 'Fjalla One', sans-serif;
 }
-
+#main{
+    margin-left: 90px;
+}
 #navbar{
     background-color: rgba(255, 68, 0, 0.616);
     height: 40px;
