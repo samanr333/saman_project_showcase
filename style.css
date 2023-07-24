@@ -5,9 +5,9 @@ body{
     font-family: 'Dancing Script', cursive;
     font-family: 'Fjalla One', sans-serif;
 }
-#main{
+/* #main{
     margin-left: 90px;
-}
+} */
 #navbar{
     background-color: rgba(255, 68, 0, 0.616);
     height: 40px;
@@ -21,12 +21,11 @@ body{
     margin: auto;
 }
 .project{
-    display: inline-block;
-    margin-top: 10px;
+    display: inline-flex;
     border: solid none;
     width: auto;
     background-color: rgb(222, 200, 172);
-    margin: 20px;
+    margin: 15px;
     border-radius: 20px;
 }
 .project img{
